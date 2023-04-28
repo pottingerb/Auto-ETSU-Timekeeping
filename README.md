@@ -3,6 +3,4 @@ This program uses Python and AHK to automatically fill out the TRS timesheet usi
 Steps:
 1. Run the Python script.
 2. When prompted, open the TRS calendar tab.
-3. Hit enter.
-
-Written by Benjamin Pottinger, 2023
+3. Continue.
